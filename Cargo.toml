@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-layer-6"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS layer-6 component"
+
+[lib]
+name = "layer_6"
+path = "src/lib.rs"
